@@ -1,0 +1,13 @@
+HR ANALYTICS DASHBOARD - KEY INSIGHTS
+
+1. Research & Development experienced the highest employee attrition, followed by Sales and Human Resources.
+
+2. Employees working overtime showed a higher likelihood of leaving the organisation compared to employees not working overtime.
+
+3. Average salary levels varied across departments, reflecting differences in job functions and responsibilities.
+
+4. The workforce was primarily concentrated within the mid-career age range, indicating a relatively mature employee base.
+
+5. Job satisfaction levels were generally moderate, although differences existed across employee groups.
+
+6. The overall attrition rate highlights the importance of retention initiatives and workforce planning strategies.
