@@ -50,6 +50,7 @@ This dashboard helps HR stakeholders monitor workforce trends, identify attritio
 
 ### Attrition Analysis
 ![Attrition Analysis](screenshots/attrition_analysis_employee_attrition_by_department.png)
+
 ![Attrition Analysis](screenshots/attrition_analysis_overtime_impact_on_attrition.png)
 
 ### Salary & Workforce Analysis
